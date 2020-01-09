@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "precache-manifest.67bb78732fa4d448ace586bd6cb8f68e.js"
+  "precache-manifest.e5e0d5515e4131847671ea4a8af9442f.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "vuenotes"});
