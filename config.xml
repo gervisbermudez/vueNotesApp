@@ -66,6 +66,5 @@
     </platform>
     <icon src="res/icons/apple-touch-icon-120x120.png" />
     <plugin name="cordova-plugin-splashscreen" spec="^5.0.3" />
-    <engine name="browser" spec="^5.0.4" />
     <engine name="android" spec="^8.1.0" />
 </widget>
